@@ -1,0 +1,13 @@
+# installing global packs
+numpy
+matplotlib
+tensorflow
+pandas
+opencv-python
+opencv-contrib-python
+scikit-learn
+torch
+torchvision
+torchaudio
+torchmetrics
+tqdm
